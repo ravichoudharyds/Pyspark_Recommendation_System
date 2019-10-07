@@ -1,0 +1,111 @@
+RMSE (validation) = 7.711494119688186 for the model trained with rank = 6 regParam =  0.001 and alpha =  0.01
+RMSE (validation) = 7.709121570307001 for the model trained with rank = 6 regParam =  0.001 and alpha =  0.1
+RMSE (validation) = 7.694977303170774 for the model trained with rank = 6 regParam =  0.001 and alpha =  1
+RMSE (validation) = 7.651545231817701 for the model trained with rank = 6 regParam =  0.001 and alpha =  10
+RMSE (validation) = 7.711637198703407 for the model trained with rank = 6 regParam =  0.01 and alpha =  0.01
+RMSE (validation) = 7.7092008316732175 for the model trained with rank = 6 regParam =  0.01 and alpha =  0.1
+RMSE (validation) = 7.694934098399986 for the model trained with rank = 6 regParam =  0.01 and alpha =  1
+RMSE (validation) = 7.6521097905176925 for the model trained with rank = 6 regParam =  0.01 and alpha =  10
+RMSE (validation) = 7.712260424478288 for the model trained with rank = 6 regParam =  0.1 and alpha =  0.01
+RMSE (validation) = 7.709900638170995 for the model trained with rank = 6 regParam =  0.1 and alpha =  0.1
+RMSE (validation) = 7.694879479818225 for the model trained with rank = 6 regParam =  0.1 and alpha =  1
+RMSE (validation) = 7.652299992855418 for the model trained with rank = 6 regParam =  0.1 and alpha =  10
+RMSE (validation) = 7.7166808640161655 for the model trained with rank = 6 regParam =  1 and alpha =  0.01
+RMSE (validation) = 7.716675405683557 for the model trained with rank = 6 regParam =  1 and alpha =  0.1
+RMSE (validation) = 7.6997818443676636 for the model trained with rank = 6 regParam =  1 and alpha =  1
+RMSE (validation) = 7.692539169104772 for the model trained with rank = 9 regParam =  1e-05 and alpha =  1
+RMSE (validation) = 7.645959044837932 for the model trained with rank = 9 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 7.692791168744366 for the model trained with rank = 9 regParam =  0.0001 and alpha =  1
+RMSE (validation) = 7.645989296904664 for the model trained with rank = 9 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 7.690802187092469 for the model trained with rank = 12 regParam =  1e-05 and alpha =  1
+RMSE (validation) = 7.642376455470178 for the model trained with rank = 12 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 7.690990092776905 for the model trained with rank = 12 regParam =  0.0001 and alpha =  1
+RMSE (validation) = 7.6424026875088495 for the model trained with rank = 12 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 7.645959044837932 for the model trained with rank = 9 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 7.623781395860365 for the model trained with rank = 9 regParam =  1e-05 and alpha =  20
+RMSE (validation) = 7.60894979728134 for the model trained with rank = 9 regParam =  1e-05 and alpha =  30
+RMSE (validation) = 7.59771159461483 for the model trained with rank = 9 regParam =  1e-05 and alpha =  40
+RMSE (validation) = 7.645989296904664 for the model trained with rank = 9 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 7.623793782672034 for the model trained with rank = 9 regParam =  0.0001 and alpha =  20
+RMSE (validation) = 7.608957016156779 for the model trained with rank = 9 regParam =  0.0001 and alpha =  30
+
++--------------------+-------------------+--------------------+
+|        Precision_At|            NDCG_At|        mean_Av_Prec|
++--------------------+-------------------+--------------------+
+|0.008342180000000001|0.14615660405165298|0.029913185823079627|
++--------------------+-------------------+--------------------+
+
+Val
+
++--------------------+-------------------+-------------------+
+|        Precision_At|            NDCG_At|       mean_Av_Prec|
++--------------------+-------------------+-------------------+
+|0.008319000000000005|0.14538858981226205|0.02918501878415256|
++--------------------+-------------------+-------------------+
+
+
+
+Log Model
+RMSE (validation) = 1.2156634321808741 for the model trained with rank = 9 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 1.190093416762781 for the model trained with rank = 9 regParam =  1e-05 and alpha =  20
+RMSE (validation) = 1.1704791441380376 for the model trained with rank = 9 regParam =  1e-05 and alpha =  30
+RMSE (validation) = 1.1546297312218614 for the model trained with rank = 9 regParam =  1e-05 and alpha =  40
+RMSE (validation) = 1.2157642681694363 for the model trained with rank = 9 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 1.1902056853202942 for the model trained with rank = 9 regParam =  0.0001 and alpha =  20
+RMSE (validation) = 1.1705705543547285 for the model trained with rank = 9 regParam =  0.0001 and alpha =  30
+RMSE (validation) = 1.1546963032828743 for the model trained with rank = 9 regParam =  0.0001 and alpha =  40
+RMSE (validation) = 1.2104258805275234 for the model trained with rank = 12 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 1.182207787584461 for the model trained with rank = 12 regParam =  1e-05 and alpha =  20
+RMSE (validation) = 1.1615743115794301 for the model trained with rank = 12 regParam =  1e-05 and alpha =  30
+RMSE (validation) = 1.1450012168174408 for the model trained with rank = 12 regParam =  1e-05 and alpha =  40
+RMSE (validation) = 1.210593865351442 for the model trained with rank = 12 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 1.1823179506187576 for the model trained with rank = 12 regParam =  0.0001 and alpha =  20
+RMSE (validation) = 1.1616476480777667 for the model trained with rank = 12 regParam =  0.0001 and alpha =  30
+RMSE (validation) = 1.1450549036481892 for the model trained with rank = 12 regParam =  0.0001 and alpha =  40
+
++--------------------+-------------------+-------------------+
+|        Precision_At|            NDCG_At|       mean_Av_Prec|
++--------------------+-------------------+-------------------+
+|0.009154439999999995|0.16869423398280864|0.03961446833533805|
++--------------------+-------------------+-------------------+
+
+Val
+
++--------------------+-------------------+-------------------+
+|        Precision_At|            NDCG_At|       mean_Av_Prec|
++--------------------+-------------------+-------------------+
+|0.009152199999999994|0.16858650220748564|0.03927348451046232|
++--------------------+-------------------+-------------------+
+
+
+
+Drop < 2
+RMSE (validation) = 7.892482785628004 for the model trained with rank = 9 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 7.870818891959135 for the model trained with rank = 9 regParam =  1e-05 and alpha =  20
+RMSE (validation) = 7.856607494280856 for the model trained with rank = 9 regParam =  1e-05 and alpha =  30
+RMSE (validation) = 7.845927945218065 for the model trained with rank = 9 regParam =  1e-05 and alpha =  40
+RMSE (validation) = 7.892506288196813 for the model trained with rank = 9 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 7.870827398546823 for the model trained with rank = 9 regParam =  0.0001 and alpha =  20
+RMSE (validation) = 7.856612240953502 for the model trained with rank = 9 regParam =  0.0001 and alpha =  30
+RMSE (validation) = 7.845931098933153 for the model trained with rank = 9 regParam =  0.0001 and alpha =  40
+RMSE (validation) = 7.888823518980603 for the model trained with rank = 12 regParam =  1e-05 and alpha =  10
+RMSE (validation) = 7.866796784760048 for the model trained with rank = 12 regParam =  1e-05 and alpha =  20
+RMSE (validation) = 7.852423387391489 for the model trained with rank = 12 regParam =  1e-05 and alpha =  30
+RMSE (validation) = 7.841643208006017 for the model trained with rank = 12 regParam =  1e-05 and alpha =  40
+RMSE (validation) = 7.888840649875296 for the model trained with rank = 12 regParam =  0.0001 and alpha =  10
+RMSE (validation) = 7.866803286065518 for the model trained with rank = 12 regParam =  0.0001 and alpha =  20
+RMSE (validation) = 7.852427029990429 for the model trained with rank = 12 regParam =  0.0001 and alpha =  30
+RMSE (validation) = 7.841645624511254 for the model trained with rank = 12 regParam =  0.0001 and alpha =  40
+
++--------------------+------------------+------------------+
+|        Precision_At|           NDCG_At|      mean_Av_Prec|
++--------------------+------------------+------------------+
+|0.008281294448426048|0.1451889260663911|0.0310260941815157|
++--------------------+------------------+------------------+
+
+
++--------------------+-------------------+--------------------+
+|        Precision_At|            NDCG_At|        mean_Av_Prec|
++--------------------+-------------------+--------------------+
+|0.008244997236042011|0.14411017803795528|0.030376404176050097|
++--------------------+-------------------+--------------------+
